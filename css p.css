@@ -1,0 +1,100 @@
+#img {
+    border-radius: 100%;
+}
+
+body {
+    text-align: center;
+    margin: 0;
+    padding-top: 800px;
+    font-family: 'Ranchers', cursive;
+}
+
+#secstio_1 {
+    z-index: 9;
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(#78a7ff 0%, #133e8f 100%);
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    position: absolute;
+    height: 800px;
+    color: blue;
+    display: table;
+    opacity: 0.9;
+    overflow: hidden;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h2 {
+    font-size: 25px;
+
+}
+
+#home {
+    font-size: 25px;
+    padding: 100px;
+    margin: 20px;
+}
+
+.class_2 {
+    height: 20px;
+    width: 30px;
+    margin: 10px auto;
+    background-color: darkblue;
+
+}
+
+.class_1 {
+    display: table-cell;
+    position: relative;
+    vertical-align: middle;
+    text-align: center;
+
+}
+
+.hi {
+    float: left;
+    color: orange;
+    padding-top: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    font-family: 'Ranchers', cursive;
+    font-size: 30px;
+}
+
+.top {
+    list-style: none;
+    z-index: 15;
+    position: absolute;
+    top: 10px;
+    right: 40px;
+    cursor: pointer;
+    background-color: crimson;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.hi:hover {
+    color: blueviolet;
+}
+
+a {
+    text-decoration: none;
+
+}
+#lololoolooololllololololol {
+    font-size:14;
+}
+#blubleba {
+    background-color: darkturquoise;
+     font-family: 'Ranchers', cursive; 
+}
+
